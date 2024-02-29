@@ -4,8 +4,8 @@
 biroka/pyresparser is built on the following main stack:
 
 - [Python](https://www.python.org) – Languages
-- [NumPy](http://www.numpy.org/) – Data Science Tools
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [NumPy](http://www.numpy.org/) – Data Science Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -16,8 +16,8 @@ Full tech stack [here](/techstack.md)
 biroka/pyresparser is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [biroka/pyresparser](https://github.com/biroka/pyresparser)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|22<br/>Tools used|01/05/24 <br/>Report generated|
+|22<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -102,7 +102,7 @@ Full tech stack [here](/techstack.md)
 |[nltk](https://pypi.org/project/nltk)|v3.4.5|07/01/19|Omkar Pathak |Apache-2.0|[CVE-2021-43854](https://github.com/advisories/GHSA-f8m6-h2c7-8h9x) (High)<br/>[CVE-2021-3842](https://github.com/advisories/GHSA-rqjh-jp2r-59cj) (High)<br/>[CVE-2021-3828](https://github.com/advisories/GHSA-2ww3-fxvq-293j) (High)|
 |[pandas](https://pypi.org/project/pandas)|v0.24.2|07/01/19|Omkar Pathak |BSD-3-Clause|N/A|
 |[pdfminer.six](https://pypi.org/project/pdfminer.six)|N/A|07/01/19|Omkar Pathak |MIT|N/A|
-|[pycryptodome](https://pypi.org/project/pycryptodome)|v3.8.2|07/01/19|Omkar Pathak |BSD-3-Clause,Unlicense,Apache-2.0|N/A|
+|[pycryptodome](https://pypi.org/project/pycryptodome)|v3.8.2|07/01/19|Omkar Pathak |BSD-3-Clause,Unlicense,Apache-2.0|[CVE-2023-52323](https://github.com/advisories/GHSA-j225-cvw7-qrx7) (Moderate)|
 |[pyrsistent](https://pypi.org/project/pyrsistent)|v0.15.2|07/01/19|Omkar Pathak |MIT|N/A|
 |[python-dateutil](https://pypi.org/project/python-dateutil)|v2.8.0|07/01/19|Omkar Pathak |NRL|N/A|
 |[pytz](https://pypi.org/project/pytz)|v2019.1|07/01/19|Omkar Pathak |MIT|N/A|
